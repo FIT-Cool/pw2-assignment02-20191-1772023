@@ -1,3 +1,5 @@
+// Tugas PW02 Minggu 02
+// 1772023 - Stefanus Hermawan
 <?php
 $submitted = filter_input(INPUT_POST,'btnSubmit');
 if(isset($submitted)){

@@ -1,3 +1,5 @@
+// Tugas PW02 Minggu 02
+// 1772023 - Stefanus Hermawan
 <?php
 function getAllPasien(){
     $link = new PDO('mysql:host=localhost;dbname=prakpw220191','root','');

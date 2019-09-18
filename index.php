@@ -1,3 +1,6 @@
+// Tugas PW02 Minggu 02
+// 1772023 - Stefanus Hermawan
+
 <?php
 include_once 'db_function/asuransi_func.php';
 include_once 'db_function/pasien_func.php';
